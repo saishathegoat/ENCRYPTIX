@@ -1,4 +1,30 @@
-I created a number guessing game in Java in which the player attempts to predict a randomly generated number within a given range.
-The program gives feedback on whether the guessed number is too high or too low, allowing the player to narrow down their guesses.
-The game continues until the proper number is guessed, after which the application congratulates the player and displays the number of attempts made.
-In this project, we implemented control structures, generated random numbers, and handled user input in Java.
+Welcome to the repository showcasing the Java projects I developed during my internship at Encryptix. This repository contains three distinct projects: the Number Game, Grade Calculator, and ATM Interface. Below, I provide a brief overview of each project, including the key functionalities and the methods used.
+
+Projects Overview - 
+
+1. Number Game
+The Number Game is an interactive console-based game where the user attempts to guess a randomly generated number within a specified range.
+
+Features:
+Random number generation.
+User input for guessing the number.
+Feedback on whether the guess is too high, too low, or correct.
+Loop to allow multiple attempts until the correct number is guessed.
+
+
+2. Grade Calculator
+The Grade Calculator is a console-based application that calculates and displays the final grade for a student based on various assessment scores.
+
+Features:
+Input for different assessment scores.
+Calculation of the final grade based on weighted averages.
+Display of the final grade.
+
+
+3. ATM Interface
+The ATM Interface is a simulation of an ATM system, allowing users to perform basic banking operations such as checking balance, depositing money, and withdrawing money.
+
+Features:
+Balance inquiry.
+Money deposit and withdrawal.
+
